@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-05T12:39:33 IST" name="Default suite" finished-at="2025-02-05T12:40:51 IST" duration-ms="77897">
+    <groups>
+    </groups>
+    <test started-at="2025-02-05T12:39:33 IST" name="Default test" finished-at="2025-02-05T12:40:51 IST" duration-ms="77897">
+      <class name="org.DemoTestNG.NewTestClass">
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.DemoTestNG.NewTestClass@51e69659]" started-at="2025-02-05T12:39:36 IST" name="setup" finished-at="2025-02-05T12:40:13 IST" duration-ms="36704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="do_fbLogin(java.lang.String,java.lang.String)[pri:0, instance:org.DemoTestNG.NewTestClass@51e69659]" started-at="2025-02-05T12:40:13 IST" name="do_fbLogin" data-provider="getData" finished-at="2025-02-05T12:40:15 IST" duration-ms="1798" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[oranium@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[46987]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- do_fbLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.DemoTestNG.NewTestClass@51e69659]" started-at="2025-02-05T12:40:15 IST" name="tearDown" finished-at="2025-02-05T12:40:16 IST" duration-ms="1031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.DemoTestNG.NewTestClass@51e69659]" started-at="2025-02-05T12:40:16 IST" name="setup" finished-at="2025-02-05T12:40:26 IST" duration-ms="10573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="do_fbLogin(java.lang.String,java.lang.String)[pri:0, instance:org.DemoTestNG.NewTestClass@51e69659]" started-at="2025-02-05T12:40:26 IST" name="do_fbLogin" data-provider="getData" finished-at="2025-02-05T12:40:28 IST" duration-ms="1185" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tech@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[45116]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- do_fbLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.DemoTestNG.NewTestClass@51e69659]" started-at="2025-02-05T12:40:28 IST" name="tearDown" finished-at="2025-02-05T12:40:30 IST" duration-ms="2450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.DemoTestNG.NewTestClass@51e69659]" started-at="2025-02-05T12:40:30 IST" name="setup" finished-at="2025-02-05T12:40:40 IST" duration-ms="9702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="do_fbLogin(java.lang.String,java.lang.String)[pri:0, instance:org.DemoTestNG.NewTestClass@51e69659]" started-at="2025-02-05T12:40:40 IST" name="do_fbLogin" data-provider="getData" finished-at="2025-02-05T12:40:41 IST" duration-ms="896" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ishwarya@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[656]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- do_fbLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.DemoTestNG.NewTestClass@51e69659]" started-at="2025-02-05T12:40:41 IST" name="tearDown" finished-at="2025-02-05T12:40:41 IST" duration-ms="691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.DemoTestNG.NewTestClass@51e69659]" started-at="2025-02-05T12:40:41 IST" name="setup" finished-at="2025-02-05T12:40:49 IST" duration-ms="7810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="do_fbLogin(java.lang.String,java.lang.String)[pri:0, instance:org.DemoTestNG.NewTestClass@51e69659]" started-at="2025-02-05T12:40:49 IST" name="do_fbLogin" data-provider="getData" finished-at="2025-02-05T12:40:50 IST" duration-ms="786" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sathish@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[41254]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- do_fbLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.DemoTestNG.NewTestClass@51e69659]" started-at="2025-02-05T12:40:50 IST" name="tearDown" finished-at="2025-02-05T12:40:51 IST" duration-ms="661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.DemoTestNG.NewTestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
