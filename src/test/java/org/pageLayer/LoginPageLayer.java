@@ -18,6 +18,7 @@ public class LoginPageLayer extends BaseClassTest{
 	{
 		boolean status = driver.findElement(forgot_pwd).isDisplayed();
 	    return status;
+		System.out.println("This is my new change");
 	}
 	
 	public void do_login()
