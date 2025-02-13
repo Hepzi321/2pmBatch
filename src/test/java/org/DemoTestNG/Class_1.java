@@ -7,6 +7,7 @@ public class Class_1 {
 	@Test(groups = "Regression")
 	public void m1()
 	{
+		System.out.println("login branch changes");
 		System.out.println(System.currentTimeMillis());
 		System.out.println("Method 1");
 	}
